@@ -1,5 +1,3 @@
-import React from "react";
-
 const Log = ({ turns }) => {
   return (
     <ol id="log">
